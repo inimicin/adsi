@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <style>
+      .btn{
+        background-color: #48509b !important;
+        width: 400px !important;
+        height: 45px !important;
+        border-radius: 10px !important;
+      }
+
+    body {
+        min-height: 100vh;
+        background: #ffffff;  
+        background-image: radial-gradient( circle farthest-corner at 0.1% 0.1%,  rgb(255, 215, 215) 0%, rgb(255, 255, 255) 99.9% );
+        /* background-image: linear-gradient( to left, rgb(177, 213, 244)0.2%, rgb(255,255,255)90%); */
+    }
+  </style>
+
+<script>
+    class Header extends HTMLElement {
+    constructor() {
+      super();
+    }
+  
+    connectedCallback() {
+      this.innerHTML = `
+          <nav
+              class="navbar navbar-expand-lg navbar-light"
+              style="background-color: transparent; height: 60px; position: absolute;"
+              >
+              <button
+                  class="navbar-toggler"
+                  type="button"
+                  data-toggle="collapse"
+                  data-target="#navbarSupportedContent"
+                  aria-controls="navbarSupportedContent"
+                  aria-expanded="false"
+                  aria-label="Toggle navigation"
+              >
+                  <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="container-fluid">
+                <a class="navbar-brand" href="#">
+                <img src="navlogo.png" alt="" width="110" height="47" class="d-inline-block align-text-top">
+                </a>
+            </div>  
+  
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                      <li class="nav-item">
+                          <a class="nav-link ${this.getAttribute('active') == 'beranda' ? 'active' : ''}" href="./Beranda.html">Beranda</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link ${this.getAttribute('active') == 'rules' ? 'active' : ''}" href="./rules.html">Produk</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link ${this.getAttribute('active') == 'rundown' ? 'active' : ''}" href="./rundown.html">Riwayat</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link ${this.getAttribute('active') == 'register' ? 'active' : ''}" href="./register.html">Kontak</a>
+                      </li>
+                  </ul>
+              </div>
+          </nav>
+          `;
+    }
+  }
+  
+  customElements.define("main-header", Header);
+</script>
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Beranda</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+      integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="../style/general.css">
+    <link rel="stylesheet" href="../style/nav.css">
+    <link rel="stylesheet" href="../style/beranda.css" />
+    <link rel="stylesheet" href="../style/font.css" />
+  </head>
+  <body>
+
+    <div style="margin-top: 134px; margin-left: 231px;">
+          <h1  style="font-size: 25pt; margin-left: 70px;">
+              Masuk Sebagai 
+              </h1> <br>
+              <button type="button" class="btn btn-primary" href="#">Pelanggan</button> <br> <br>
+              <button type="button" class="btn btn-primary" href="#">Administrator</button> <br>
+              <img src="beranda.png" alt="Gambar" width="300" height="300" style="margin-left: 600px;">
+              </div>
+    
+    <script src="Header.js"></script>
+  </body>
+</html>
