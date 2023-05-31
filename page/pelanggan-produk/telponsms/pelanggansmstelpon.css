@@ -1,0 +1,767 @@
+.pelanggansmstelpon-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pelanggansmstelpon-pelanggansmstelpon {
+  width: 100%;
+  height: 1358px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-formorderform {
+  top: 194px;
+  left: 311px;
+  width: 768px;
+  height: 819px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-divwrapper {
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 54px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(72, 80, 155, 1);
+}
+.pelanggansmstelpon-svgh2d1a1f13fb {
+  top: 15px;
+  left: 15px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.pelanggansmstelpon-text {
+  top: 16px;
+  left: 54px;
+  color: rgba(255, 255, 255, 1);
+  width: 134px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-divnlikeapp {
+  top: 54px;
+  left: 0px;
+  width: 768px;
+  height: 1077px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-divboxorderi {
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 143.6699981689453px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-divboxordera {
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 143.6699981689453px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-divformgroup {
+  top: 15px;
+  left: 15px;
+  width: 738px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-inputnmhp {
+  top: 0px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  width: 738px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  font-size: 12px;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Poppins;
+  font-weight: 400;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-labellabel {
+  top: -9px;
+  left: 16px;
+  width: 60px;
+  display: flex;
+  padding: 0 1.7700004577636719px 1.3299999237060547px 2px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-text02 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-divformgroup1 {
+  top: 80px;
+  left: 15px;
+  width: 738px;
+  height: 48.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-selectplhpdpulsa {
+  top: 0px;
+  left: 0px;
+  width: 738px;
+  height: 48.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-pseudo {
+  top: 16.329999923706055px;
+  left: 16.329999923706055px;
+  width: 705px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 706px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-svgh2dc802cc9c {
+  top: 14px;
+  left: 700px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.pelanggansmstelpon-labellabel1 {
+  top: -9px;
+  left: 16px;
+  width: 55px;
+  display: flex;
+  padding: 0 2.2099990844726562px 1.3299999237060547px 2px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-text06 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-selectplhpdpulsa1 {
+  top: -1117px;
+  left: 15px;
+  width: 738px;
+  height: 48.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-pseudo1 {
+  top: 16.329999923706055px;
+  left: 16.329999923706055px;
+  width: 705px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-text08 {
+  color: rgba(0, 0, 0, 1);
+  width: 706px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-divboxorderb {
+  top: 199px;
+  left: 0px;
+  width: 768px;
+  height: 55.33000183105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1.3333300352096558px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-text10 {
+  top: 17.65999984741211px;
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-divsrcpd {
+  gap: 15px;
+  top: 16.329999923706055px;
+  left: 690px;
+  width: 63px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.pelanggansmstelpon-svgh2d3eb9c2f9 {
+  width: 24px;
+  height: 24px;
+}
+.pelanggansmstelpon-svgh2daa3e23ba {
+  width: 24px;
+  height: 24px;
+}
+.pelanggansmstelpon-selectplhpdpulsa2 {
+  top: 149px;
+  left: 15px;
+  width: 738px;
+  height: 48.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-pseudo2 {
+  top: 16.329999923706055px;
+  left: 16.329999923706055px;
+  width: 705px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-text12 {
+  color: rgba(0, 0, 0, 1);
+  width: 706px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-svgh2dc802cc9c1 {
+  top: 12px;
+  left: 698px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.pelanggansmstelpon-ulactpd {
+  top: 254.330078125px;
+  left: 15px;
+  width: 738px;
+  height: 3398px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-buttonbtn {
+  top: 0px;
+  left: 0px;
+  width: 738px;
+  height: 84.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-text14 {
+  top: 16.669921875px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-text16 {
+  top: 33.669921875px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-text18 {
+  top: 50.669921875px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-buttonbtn1 {
+  top: 94.66999816894531px;
+  left: 0px;
+  width: 738px;
+  height: 84.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-text20 {
+  top: 16px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 189px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-text22 {
+  top: 34px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-text24 {
+  top: 51px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-buttonbtn2 {
+  top: 189.3300018310547px;
+  left: 0px;
+  width: 738px;
+  height: 84.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-text26 {
+  top: 16.33984375px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-text28 {
+  top: 33.33984375px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-text30 {
+  top: 51.33984375px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-buttonbtn3 {
+  top: 284px;
+  left: 0px;
+  width: 738px;
+  height: 84.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-text32 {
+  top: 16.669921875px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 319px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-text34 {
+  top: 33.669921875px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-text36 {
+  top: 50.669921875px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-text38 {
+  top: 141px;
+  left: 33px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-navbar {
+  gap: 64px;
+  top: 0px;
+  left: 138px;
+  width: 1440px;
+  height: 136px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelanggansmstelpon-frame2 {
+  display: flex;
+  align-items: center;
+}
+.pelanggansmstelpon-frame1 {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.pelanggansmstelpon-text40 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Port Lligat Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-line113 {
+  width: 75px;
+  height: 1px;
+}
+.pelanggansmstelpon-image5 {
+  width: 60px;
+  height: 60px;
+}
+.pelanggansmstelpon-beranda {
+  width: 86px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-text42 {
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-beranda1 {
+  width: 86px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-text44 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-beranda2 {
+  width: 86px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-text46 {
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelanggansmstelpon-beranda3 {
+  width: 86px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelanggansmstelpon-text48 {
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
