@@ -1,0 +1,825 @@
+.pelangganetolltapcash-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pelangganetolltapcash-pelangganetolltapcash {
+  width: 100%;
+  height: 1737px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-image: linear-gradient(150deg, rgba(255, 255, 255, 1) 100%, rgba(53, 59, 120, 1) 100%);
+}
+.pelangganetolltapcash-pulsa {
+  top: 186px;
+  left: 336px;
+  width: 768px;
+  height: 517.3300170898438px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-pulsaform {
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 266.3299865722656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-isipulsa {
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 54px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(72, 80, 155, 1);
+}
+.pelangganetolltapcash-back {
+  top: 15px;
+  left: 15px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-frame {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.pelangganetolltapcash-text {
+  top: 17.329999923706055px;
+  left: 54px;
+  color: rgba(255, 255, 255, 1);
+  width: 105px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-form {
+  top: 54px;
+  left: 0px;
+  width: 768px;
+  height: 212.3300018310547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-nohp {
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 142.3300018310547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-form1 {
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 142.3300018310547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-nohpgrup {
+  top: 15px;
+  left: 15px;
+  width: 738px;
+  height: 49.33000183105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-inputnmhp {
+  top: 0px;
+  left: 0px;
+  width: 738px;
+  height: 49.33000183105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-pseudo {
+  top: 17px;
+  left: 16px;
+  width: 705px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-text02 {
+  color: rgba(0, 0, 0, 1);
+  width: 706px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-op {
+  top: 7px;
+  left: 30px;
+  width: 55px;
+  height: 16.670000076293945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-text04 {
+  top: 1px;
+  left: 2px;
+  color: rgba(0, 0, 0, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-provop {
+  top: 79.33000183105469px;
+  left: 15px;
+  width: 738px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-prov {
+  top: 0px;
+  left: 0px;
+  width: 738px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-svgh2dc802cc9c {
+  top: 11.669921875px;
+  left: 698px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.pelangganetolltapcash-pseudo1 {
+  top: 15.669921875px;
+  left: 16px;
+  width: 705px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-text06 {
+  color: rgba(0, 0, 0, 1);
+  width: 706px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-op1 {
+  top: -8px;
+  left: 16px;
+  width: 55px;
+  height: 16.670000076293945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-text08 {
+  top: 0.6700000166893005px;
+  left: 2px;
+  color: rgba(0, 0, 0, 1);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-selectplhpdpulsa {
+  top: 150px;
+  left: 14px;
+  width: 738px;
+  height: 48.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-pseudo2 {
+  top: 16.329999923706055px;
+  left: 16.329999923706055px;
+  width: 705px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-text10 {
+  color: rgba(0, 0, 0, 1);
+  width: 706px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-svgh2dc802cc9c1 {
+  top: 12px;
+  left: 698px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.pelangganetolltapcash-text12 {
+  top: 142px;
+  left: 31px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-nom {
+  top: 266px;
+  left: 0px;
+  width: 768px;
+  height: 55px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 0.6666669845581055px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-text14 {
+  top: 18.170000076293945px;
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-ulactpd {
+  top: 507px;
+  left: 355px;
+  width: 738px;
+  height: 3398px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-buttonbtn {
+  top: 0px;
+  left: 0px;
+  width: 738px;
+  height: 84.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-text16 {
+  top: 17px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-text18 {
+  top: 34px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-text20 {
+  top: 50.669921875px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-buttonbtn1 {
+  top: 94.66999816894531px;
+  left: 0px;
+  width: 738px;
+  height: 84.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-text22 {
+  top: 16.330078125px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 129px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-text24 {
+  top: 33.65999984741211px;
+  left: 16.329999923706055px;
+  color: rgba(0, 0, 0, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-text26 {
+  top: 51px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-buttonbtn2 {
+  top: 189.3300018310547px;
+  left: 0px;
+  width: 738px;
+  height: 84.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-text28 {
+  top: 33.66999816894531px;
+  left: 16.329999923706055px;
+  color: rgba(0, 0, 0, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-text30 {
+  top: 51.669921875px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-text32 {
+  top: 15.669921875px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-buttonbtn3 {
+  top: 284px;
+  left: 0px;
+  width: 738px;
+  height: 84.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-text34 {
+  top: 17px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 153px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-text36 {
+  top: 33.66999816894531px;
+  left: 16.329999923706055px;
+  color: rgba(0, 0, 0, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-text38 {
+  top: 50.669921875px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-buttonbtn4 {
+  top: 378.6700134277344px;
+  left: 0px;
+  width: 738px;
+  height: 84.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(236, 240, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-text40 {
+  top: 16.330078125px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-text42 {
+  top: 33.65999984741211px;
+  left: 16.329999923706055px;
+  color: rgba(0, 0, 0, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-text44 {
+  top: 51px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  width: 70px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-navbar {
+  gap: 64px;
+  top: 0px;
+  left: 190px;
+  width: 1440px;
+  height: 136px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pelangganetolltapcash-frame2 {
+  display: flex;
+  align-items: center;
+}
+.pelangganetolltapcash-frame1 {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.pelangganetolltapcash-text46 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Port Lligat Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-line113 {
+  width: 75px;
+  height: 1px;
+}
+.pelangganetolltapcash-image5 {
+  width: 60px;
+  height: 60px;
+}
+.pelangganetolltapcash-beranda {
+  width: 86px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-text48 {
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-beranda1 {
+  width: 86px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-text50 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-beranda2 {
+  width: 86px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-text52 {
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pelangganetolltapcash-beranda3 {
+  width: 86px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pelangganetolltapcash-text54 {
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
