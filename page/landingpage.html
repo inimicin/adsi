@@ -16,6 +16,11 @@
         background-image: radial-gradient( circle farthest-corner at 0.1% 0.1%,  rgb(255, 215, 215) 0%, rgb(255, 255, 255) 99.9% );
         /* background-image: linear-gradient( to left, rgb(177, 213, 244)0.2%, rgb(255,255,255)90%); */
     }
+
+    .btn:hover {
+            background-color: #000000;
+            transform: translateY(-3px);
+        }
   </style>
 
 <script>
@@ -99,15 +104,25 @@
   </head>
   <body>
 
+    <div class="row justify-content-around" style="margin-top: 316px; margin-left: 294;">
+      <div class="col-4">
+        <h1  style="font-size: 25pt; margin-left: 70px;">
+          Masuk Sebagai 
+          </h1> <br>
+          <button type="button" class="btn btn-primary" href="#">Pelanggan</button> <br> <br>
+          <button type="button" class="btn btn-primary" href="#">Administrator</button> <br>
+          
+      </div>
+      <div class="col-4">
+        <img src="beranda.png" alt="Gambar" width="437px" height="464px" >
+      </div>
+    </div>
+
     <div style="margin-top: 134px; margin-left: 231px;">
-          <h1  style="font-size: 25pt; margin-left: 70px;">
-              Masuk Sebagai 
-              </h1> <br>
-              <button type="button" class="btn btn-primary" href="#">Pelanggan</button> <br> <br>
-              <button type="button" class="btn btn-primary" href="#">Administrator</button> <br>
-              <img src="beranda.png" alt="Gambar" width="300" height="300" style="margin-left: 600px;">
+          
               </div>
     
     <script src="Header.js"></script>
   </body>
 </html>
+
