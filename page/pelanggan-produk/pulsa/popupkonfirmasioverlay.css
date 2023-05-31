@@ -1,0 +1,172 @@
+.popupkonfirmasioverlay-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.popupkonfirmasioverlay-popupkonfirmasioverlay {
+  width: 100%;
+  height: 154px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.popupkonfirmasioverlay-divmodalcontent {
+  top: 0px;
+  left: 0px;
+  width: 738px;
+  height: 154px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.popupkonfirmasioverlay-divmodalheader {
+  top: 0px;
+  left: 0px;
+  width: 738px;
+  height: 51.33000183105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.popupkonfirmasioverlay-h4modaltitle {
+  top: 0px;
+  left: 0px;
+  width: 723px;
+  height: 51.33000183105469px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.popupkonfirmasioverlay-text {
+  top: 15px;
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.popupkonfirmasioverlay-formh2de1553618 {
+  top: 51.33000183105469px;
+  left: 0px;
+  width: 738px;
+  height: 102.66999816894531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.popupkonfirmasioverlay-divmodalbody {
+  top: 0px;
+  left: 0px;
+  width: 738px;
+  height: 51.33000183105469px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.popupkonfirmasioverlay-text2 {
+  top: 15px;
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  width: 385px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.popupkonfirmasioverlay-divmodalmclose {
+  top: 51.34000015258789px;
+  left: 0px;
+  width: 738px;
+  height: 51.33000183105469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.popupkonfirmasioverlay-buttonsubmit {
+  top: 12.330078125px;
+  left: 76px;
+  width: 72px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background-color: rgba(72, 80, 155, 1);
+}
+.popupkonfirmasioverlay-text4 {
+  top: 3px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 40px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.popupkonfirmasioverlay-buttonsubmit1 {
+  top: 12.330078125px;
+  left: 596px;
+  width: 72px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background-color: rgba(155, 72, 72, 1);
+}
+.popupkonfirmasioverlay-text6 {
+  top: 3px;
+  left: 26px;
+  color: rgba(255, 255, 255, 1);
+  width: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
