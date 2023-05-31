@@ -47,7 +47,7 @@ check_admin_session();
           left: 22%;
         ">
     <div class="col">
-      <a href="#" class="card" style="background-color: transparent !important; width: 75%; height:100%">
+      <a href="#" class="card" style="color: black; background-color: transparent !important; width: 75%; height:100%">
         <img src="../res/laporan_icon.png" style="width: 60%; height: 50%; position:relative; left:20% ; top: 20%" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title" style="color: black; position:relative; left:15% !important; top: 60% ">Laporan</h5>
@@ -55,7 +55,7 @@ check_admin_session();
       </a>
     </div>
     <div class="col">
-      <a href="#" class="card" style="background-color: transparent !important; width: 75%; height:100%">
+      <a href="#" class="card" style="color: black; background-color: transparent !important; width: 75%; height:100%">
         <img src="../res/Penjualan_icon.png" style="width: 50%; height: 45%; position:relative; left:27% ; top: 20%" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title" style="color: black; position:relative; left: 15% !important; top: 60% ">Penjualan</h5>
@@ -63,7 +63,7 @@ check_admin_session();
       </a>
     </div>
     <div class="col">
-      <a href="../page/admin_produk_data.php" class="card" style="background-color: transparent !important; width: 75%; height:100%">
+      <a href="../page/admin_produk_data.php" class="card" style="color: black;background-color: transparent !important; width: 75%; height:100%">
         <img src="../res/produk_icon.png" style="width: 50%; height: 50%; position:relative; left:23% ;top: 20%" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title" style="color: black; position:relative; left:3% !important; top: 60% ">Kelola Produk</h5>
