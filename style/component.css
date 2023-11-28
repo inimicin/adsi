@@ -50,9 +50,9 @@ input:focus, textarea:focus{
     box-shadow: 0 0 0 1px #48509B !important;
 }
 
-.btn {
+.btn btn-primary{
     background-color: #48509B !important;
     border-color: black;
-    border-width: 2px;
+    border-width: 1px;
     border-radius: 10px;
 }
